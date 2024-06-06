@@ -1,5 +1,3 @@
-# ▷ CodingTestEssentials
-
 ## ▶ 스터디 소개
 🦖코딩 테스트 자료 저장소🦖
 
